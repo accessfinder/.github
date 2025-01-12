@@ -1,2 +1,2 @@
 # .github
-Community health files for Access FInder
+Community health files for Access Finder
